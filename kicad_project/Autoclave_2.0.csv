@@ -1,0 +1,21 @@
+Reference, Quantity, Value, Footprint,,, DK_Detail_Page, Description, Digi-Key_PN, Family, MPN, Manufacturer, Status
+Buzzer1 ,1,PKMCS0909E4000-R1,Buzzer_Beeper:Buzzer_12x9.5RM7.6,,,/product-detail/en/murata-electronics-north-america/PKMCS0909E4000-R1/490-9647-1-ND/4878401,AUDIO PIEZO TRANSDUCER 12.5V SMD,490-9647-1-ND,"Alarms, Buzzers, and Sirens",PKMCS0909E4000-R1,Murata Electronics North America,Active
+C1 C2 C3 C4 ,4,10uF,Capacitor_THT:CP_Radial_D4.0mm_P2.00mm,,,,,,,,,
+Cf1 ,1,100uF,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm,,,,,,,,,
+D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 ,12,LED,digikey-footprints:LED_3mm_Radial,,,,,,,,,
+F1 ,1,Fuse,Fuse_Holders_and_Fuses:Fuseholder5x20_horiz_open_inline_Type-I,,,,,,,,,
+J1 Gris1 Blanca1 J2 J3 J5 J6 J7 J9 J10 J11 J12 ,12,Screw_Terminal_01x02,TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm,,,,,,,,,
+J13 ,1,USB_B,Connector_USB:USB_B_OST_USB-B1HSxx_Horizontal,,,,,,,,,
+J4 ,1,Barrel_Jack_MountingPin,digikey-footprints:Barrel_Jack_5.5mmODx2.1mmID_PJ-102A,,,,,,,,,
+J8 ,1,Screw_Terminal_01x04,TerminalBlock:TerminalBlock_Altech_AK300-4_P5.00mm,,,,,,,,,
+MP1 BMB1 CNT1 EST1 EM1 ESR1 ESL1 SEC1 ENA1 SP1 ,10,G5LE-14_DC12,Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C,,,/product-detail/en/omron-electronics-inc-emc-div/G5LE-14-DC12/Z1012-ND/280369,RELAY GEN PURPOSE SPDT 10A 12V,Z1012-ND,"Power Relays, Over 2 Amps",G5LE-14 DC12,Omron Electronics Inc-EMC Div,Active
+Q1 Q2 ,2,ULN2803ADWR,Package_DIP:DIP-18_W7.62mm,,,/product-detail/en/texas-instruments/ULN2803ADWR/296-15777-1-ND/598088,TRANS 8NPN DARL 50V 0.5A 18SO,296-15777-1-ND,Transistors - Bipolar (BJT) - Arrays,ULN2803ADWR,Texas Instruments,Active
+R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 ,11,1K,Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm,,,,,,,,,
+R1.1 R1.2 ,2,100K,Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm,,,,,,,,,
+Rb1 ,1,100,Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm,,,,,,,,,
+Rf1 ,1,270,Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm,,,,,,,,,
+Rg1 R12 ,2,220,Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm,,,,,,,,,
+T_EX1 P_IN1 P_EX1 Nivel1 ,4,Screw_Terminal_01x03,TerminalBlock:TerminalBlock_Altech_AK300-3_P5.00mm,,,,,,,,,
+U1 ,1,AD620,Package_DIP:DIP-8_W7.62mm,,,,,,,,,
+U2 ,1,LM741,Package_DIP:DIP-8_W7.62mm,,,,,,,,,
+U3 ,1,MAX232N,Package_DIP:DIP-16_W7.62mm,,,/product-detail/en/texas-instruments/MAX232N/296-1402-5-ND/277048,IC DUAL EIA-232 DRVR/RCVR 16-DIP,296-1402-5-ND,"Interface - Drivers, Receivers, Transceivers",MAX232N,Texas Instruments,Active

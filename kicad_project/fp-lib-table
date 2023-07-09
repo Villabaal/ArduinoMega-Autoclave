@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Arduino)(type KiCad)(uri ${KIPRJMOD}/KiCad-master/Arduino.pretty)(options "")(descr "arduino shields"))
+  (lib (name digikey-footprints)(type KiCad)(uri /home/villabaal/Documentos/Electronica/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name Fuse_Holders_and_Fuses)(type KiCad)(uri /home/villabaal/Documentos/Electronica/Fuse_Holders_and_Fuses.pretty-master)(options "")(descr ""))
+)

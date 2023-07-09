@@ -1,0 +1,1850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/villabaal/Documentos/Electronica/Autoclave_2.0/Autoclave_2.0/Autoclave_2.0.sch</source>
+    <date>mar 19 abr 2022 11:51:57</date>
+    <tool>Eeschema 5.1.10-88a1d61d58~90~ubuntu20.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Autoclave_2.0.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="MP1">
+      <value>G5LE-14_DC12</value>
+      <footprint>Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</datasheet>
+      <fields>
+        <field name="Category">Relays</field>
+        <field name="DK_Datasheet_Link">https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/omron-electronics-inc-emc-div/G5LE-14-DC12/Z1012-ND/280369</field>
+        <field name="Description">RELAY GEN PURPOSE SPDT 10A 12V</field>
+        <field name="Digi-Key_PN">Z1012-ND</field>
+        <field name="Family">Power Relays, Over 2 Amps</field>
+        <field name="MPN">G5LE-14 DC12</field>
+        <field name="Manufacturer">Omron Electronics Inc-EMC Div</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="Autoclave_2.0-rescue" part="G5LE-14_DC12-dk_Power-Relays-Over-2-Amps" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>621BD512</tstamp>
+    </comp>
+    <comp ref="BMB1">
+      <value>G5LE-14_DC12</value>
+      <footprint>Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</datasheet>
+      <fields>
+        <field name="Category">Relays</field>
+        <field name="DK_Datasheet_Link">https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/omron-electronics-inc-emc-div/G5LE-14-DC12/Z1012-ND/280369</field>
+        <field name="Description">RELAY GEN PURPOSE SPDT 10A 12V</field>
+        <field name="Digi-Key_PN">Z1012-ND</field>
+        <field name="Family">Power Relays, Over 2 Amps</field>
+        <field name="MPN">G5LE-14 DC12</field>
+        <field name="Manufacturer">Omron Electronics Inc-EMC Div</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="Autoclave_2.0-rescue" part="G5LE-14_DC12-dk_Power-Relays-Over-2-Amps" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>621BE1C7</tstamp>
+    </comp>
+    <comp ref="CNT1">
+      <value>G5LE-14_DC12</value>
+      <footprint>Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</datasheet>
+      <fields>
+        <field name="Category">Relays</field>
+        <field name="DK_Datasheet_Link">https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/omron-electronics-inc-emc-div/G5LE-14-DC12/Z1012-ND/280369</field>
+        <field name="Description">RELAY GEN PURPOSE SPDT 10A 12V</field>
+        <field name="Digi-Key_PN">Z1012-ND</field>
+        <field name="Family">Power Relays, Over 2 Amps</field>
+        <field name="MPN">G5LE-14 DC12</field>
+        <field name="Manufacturer">Omron Electronics Inc-EMC Div</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="Autoclave_2.0-rescue" part="G5LE-14_DC12-dk_Power-Relays-Over-2-Amps" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>621BED60</tstamp>
+    </comp>
+    <comp ref="EST1">
+      <value>G5LE-14_DC12</value>
+      <footprint>Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</datasheet>
+      <fields>
+        <field name="Category">Relays</field>
+        <field name="DK_Datasheet_Link">https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/omron-electronics-inc-emc-div/G5LE-14-DC12/Z1012-ND/280369</field>
+        <field name="Description">RELAY GEN PURPOSE SPDT 10A 12V</field>
+        <field name="Digi-Key_PN">Z1012-ND</field>
+        <field name="Family">Power Relays, Over 2 Amps</field>
+        <field name="MPN">G5LE-14 DC12</field>
+        <field name="Manufacturer">Omron Electronics Inc-EMC Div</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="Autoclave_2.0-rescue" part="G5LE-14_DC12-dk_Power-Relays-Over-2-Amps" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>622E89D0</tstamp>
+    </comp>
+    <comp ref="EM1">
+      <value>G5LE-14_DC12</value>
+      <footprint>Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</datasheet>
+      <fields>
+        <field name="Category">Relays</field>
+        <field name="DK_Datasheet_Link">https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/omron-electronics-inc-emc-div/G5LE-14-DC12/Z1012-ND/280369</field>
+        <field name="Description">RELAY GEN PURPOSE SPDT 10A 12V</field>
+        <field name="Digi-Key_PN">Z1012-ND</field>
+        <field name="Family">Power Relays, Over 2 Amps</field>
+        <field name="MPN">G5LE-14 DC12</field>
+        <field name="Manufacturer">Omron Electronics Inc-EMC Div</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="Autoclave_2.0-rescue" part="G5LE-14_DC12-dk_Power-Relays-Over-2-Amps" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>622E9B83</tstamp>
+    </comp>
+    <comp ref="ESR1">
+      <value>G5LE-14_DC12</value>
+      <footprint>Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</datasheet>
+      <fields>
+        <field name="Category">Relays</field>
+        <field name="DK_Datasheet_Link">https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/omron-electronics-inc-emc-div/G5LE-14-DC12/Z1012-ND/280369</field>
+        <field name="Description">RELAY GEN PURPOSE SPDT 10A 12V</field>
+        <field name="Digi-Key_PN">Z1012-ND</field>
+        <field name="Family">Power Relays, Over 2 Amps</field>
+        <field name="MPN">G5LE-14 DC12</field>
+        <field name="Manufacturer">Omron Electronics Inc-EMC Div</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="Autoclave_2.0-rescue" part="G5LE-14_DC12-dk_Power-Relays-Over-2-Amps" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>622EAA68</tstamp>
+    </comp>
+    <comp ref="ESL1">
+      <value>G5LE-14_DC12</value>
+      <footprint>Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</datasheet>
+      <fields>
+        <field name="Category">Relays</field>
+        <field name="DK_Datasheet_Link">https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/omron-electronics-inc-emc-div/G5LE-14-DC12/Z1012-ND/280369</field>
+        <field name="Description">RELAY GEN PURPOSE SPDT 10A 12V</field>
+        <field name="Digi-Key_PN">Z1012-ND</field>
+        <field name="Family">Power Relays, Over 2 Amps</field>
+        <field name="MPN">G5LE-14 DC12</field>
+        <field name="Manufacturer">Omron Electronics Inc-EMC Div</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="Autoclave_2.0-rescue" part="G5LE-14_DC12-dk_Power-Relays-Over-2-Amps" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>622EB9F7</tstamp>
+    </comp>
+    <comp ref="SEC1">
+      <value>G5LE-14_DC12</value>
+      <footprint>Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</datasheet>
+      <fields>
+        <field name="Category">Relays</field>
+        <field name="DK_Datasheet_Link">https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/omron-electronics-inc-emc-div/G5LE-14-DC12/Z1012-ND/280369</field>
+        <field name="Description">RELAY GEN PURPOSE SPDT 10A 12V</field>
+        <field name="Digi-Key_PN">Z1012-ND</field>
+        <field name="Family">Power Relays, Over 2 Amps</field>
+        <field name="MPN">G5LE-14 DC12</field>
+        <field name="Manufacturer">Omron Electronics Inc-EMC Div</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="Autoclave_2.0-rescue" part="G5LE-14_DC12-dk_Power-Relays-Over-2-Amps" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>622ED329</tstamp>
+    </comp>
+    <comp ref="ENA1">
+      <value>G5LE-14_DC12</value>
+      <footprint>Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</datasheet>
+      <fields>
+        <field name="Category">Relays</field>
+        <field name="DK_Datasheet_Link">https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/omron-electronics-inc-emc-div/G5LE-14-DC12/Z1012-ND/280369</field>
+        <field name="Description">RELAY GEN PURPOSE SPDT 10A 12V</field>
+        <field name="Digi-Key_PN">Z1012-ND</field>
+        <field name="Family">Power Relays, Over 2 Amps</field>
+        <field name="MPN">G5LE-14 DC12</field>
+        <field name="Manufacturer">Omron Electronics Inc-EMC Div</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="Autoclave_2.0-rescue" part="G5LE-14_DC12-dk_Power-Relays-Over-2-Amps" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>622EE01E</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>digikey-footprints:LED_3mm_Radial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6241027A</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6240C6EA</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>digikey-footprints:LED_3mm_Radial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6248DDF5</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6248DDFB</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>digikey-footprints:LED_3mm_Radial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6248EFF4</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6248EFFA</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>digikey-footprints:LED_3mm_Radial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62492CC1</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62492CC7</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>digikey-footprints:LED_3mm_Radial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62494585</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6249458B</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>digikey-footprints:LED_3mm_Radial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>624960D0</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>624960D6</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>digikey-footprints:LED_3mm_Radial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>624974D2</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>624974D8</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <footprint>digikey-footprints:LED_3mm_Radial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62499054</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6249905A</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <footprint>digikey-footprints:LED_3mm_Radial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6249D3C2</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6249D3C8</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6249E87D</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <footprint>digikey-footprints:LED_3mm_Radial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6249E877</tstamp>
+    </comp>
+    <comp ref="SP1">
+      <value>G5LE-14_DC12</value>
+      <footprint>Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</datasheet>
+      <fields>
+        <field name="Category">Relays</field>
+        <field name="DK_Datasheet_Link">https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/omron-electronics-inc-emc-div/G5LE-14-DC12/Z1012-ND/280369</field>
+        <field name="Description">RELAY GEN PURPOSE SPDT 10A 12V</field>
+        <field name="Digi-Key_PN">Z1012-ND</field>
+        <field name="Family">Power Relays, Over 2 Amps</field>
+        <field name="MPN">G5LE-14 DC12</field>
+        <field name="Manufacturer">Omron Electronics Inc-EMC Div</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="Autoclave_2.0-rescue" part="G5LE-14_DC12-dk_Power-Relays-Over-2-Amps" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>621BC953</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>ULN2803ADWR</value>
+      <footprint>Package_DIP:DIP-18_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fuln2803a</datasheet>
+      <fields>
+        <field name="Category">Discrete Semiconductor Products</field>
+        <field name="DK_Datasheet_Link">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fuln2803a</field>
+        <field name="DK_Detail_Page">/product-detail/en/texas-instruments/ULN2803ADWR/296-15777-1-ND/598088</field>
+        <field name="Description">TRANS 8NPN DARL 50V 0.5A 18SO</field>
+        <field name="Digi-Key_PN">296-15777-1-ND</field>
+        <field name="Family">Transistors - Bipolar (BJT) - Arrays</field>
+        <field name="MPN">ULN2803ADWR</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="Autoclave_2.0-rescue" part="ULN2803ADWR-dk_Transistors-Bipolar-BJT-Arrays" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>621CCA08</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>ULN2803ADWR</value>
+      <footprint>Package_DIP:DIP-18_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fuln2803a</datasheet>
+      <fields>
+        <field name="Category">Discrete Semiconductor Products</field>
+        <field name="DK_Datasheet_Link">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fuln2803a</field>
+        <field name="DK_Detail_Page">/product-detail/en/texas-instruments/ULN2803ADWR/296-15777-1-ND/598088</field>
+        <field name="Description">TRANS 8NPN DARL 50V 0.5A 18SO</field>
+        <field name="Digi-Key_PN">296-15777-1-ND</field>
+        <field name="Family">Transistors - Bipolar (BJT) - Arrays</field>
+        <field name="MPN">ULN2803ADWR</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="Autoclave_2.0-rescue" part="ULN2803ADWR-dk_Transistors-Bipolar-BJT-Arrays" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>621BED6B</tstamp>
+    </comp>
+    <comp ref="Buzzer1">
+      <value>PKMCS0909E4000-R1</value>
+      <footprint>Buzzer_Beeper:Buzzer_12x9.5RM7.6</footprint>
+      <datasheet>https://www.murata.com/~/media/webrenewal/products/sound/sounder/vppt-buzj083-d.ashx</datasheet>
+      <fields>
+        <field name="Category">Audio Products</field>
+        <field name="DK_Datasheet_Link">https://www.murata.com/~/media/webrenewal/products/sound/sounder/vppt-buzj083-d.ashx</field>
+        <field name="DK_Detail_Page">/product-detail/en/murata-electronics-north-america/PKMCS0909E4000-R1/490-9647-1-ND/4878401</field>
+        <field name="Description">AUDIO PIEZO TRANSDUCER 12.5V SMD</field>
+        <field name="Digi-Key_PN">490-9647-1-ND</field>
+        <field name="Family">Alarms, Buzzers, and Sirens</field>
+        <field name="MPN">PKMCS0909E4000-R1</field>
+        <field name="Manufacturer">Murata Electronics North America</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="Autoclave_2.0-rescue" part="PKMCS0909E4000-R1-dk_Alarms-Buzzers-and-Sirens" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>628BC102</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6221403C</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>623D28E8</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>623E1096</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>623EC2F7</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>623F738D</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>624026EB</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6240DCA0</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>624202AD</tstamp>
+    </comp>
+    <comp ref="J11">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6242B529</tstamp>
+    </comp>
+    <comp ref="J12">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>624366B9</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-4_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6270A3C3</tstamp>
+    </comp>
+    <comp ref="F1">
+      <value>Fuse</value>
+      <footprint>Fuse_Holders_and_Fuses:Fuseholder5x20_horiz_open_inline_Type-I</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>627A4572</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>Barrel_Jack_MountingPin</value>
+      <footprint>digikey-footprints:Barrel_Jack_5.5mmODx2.1mmID_PJ-102A</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Barrel_Jack_MountingPin" description="DC Barrel Jack with a mounting pin"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62872347</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>digikey-footprints:LED_3mm_Radial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6291478B</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62919190</tstamp>
+    </comp>
+    <comp ref="XA1">
+      <value>Arduino_Mega2560_Shield</value>
+      <footprint>Arduino:Arduino_Mega2560_Shield</footprint>
+      <datasheet>https://store.arduino.cc/arduino-mega-2560-rev3</datasheet>
+      <libsource lib="arduino" part="Arduino_Mega2560_Shield" description="Shield for Arduino Mega 2560"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>621AFD56</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>MAX232N</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmax232</datasheet>
+      <fields>
+        <field name="Category">Integrated Circuits (ICs)</field>
+        <field name="DK_Datasheet_Link">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmax232</field>
+        <field name="DK_Detail_Page">/product-detail/en/texas-instruments/MAX232N/296-1402-5-ND/277048</field>
+        <field name="Description">IC DUAL EIA-232 DRVR/RCVR 16-DIP</field>
+        <field name="Digi-Key_PN">296-1402-5-ND</field>
+        <field name="Family">Interface - Drivers, Receivers, Transceivers</field>
+        <field name="MPN">MAX232N</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="Autoclave_2.0-rescue" part="MAX232N-dk_Interface-Drivers-Receivers-Transceivers" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>629F6BF8</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>10uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P2.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1" description="Polarized capacitor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62AFC589</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>10uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P2.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1" description="Polarized capacitor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62B61FF3</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P2.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1" description="Polarized capacitor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62B734E2</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P2.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1" description="Polarized capacitor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62B96B8D</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>LM741</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm741.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="LM741" description="Operational Amplifier, DIP-8/TO-99-8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62E1C6C3</tstamp>
+    </comp>
+    <comp ref="Rg1">
+      <value>220</value>
+      <footprint>Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>623752B8</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>AD620</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf</datasheet>
+      <libsource lib="Amplifier_Instrumentation" part="AD620" description="Low Cost, Low Power, Instrumentation Amplifier, DIP-8/SOIC-8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62E18B61</tstamp>
+    </comp>
+    <comp ref="Cf1">
+      <value>100uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1" description="Polarized capacitor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>624049D6</tstamp>
+    </comp>
+    <comp ref="Rf1">
+      <value>270</value>
+      <footprint>Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>623EC8B1</tstamp>
+    </comp>
+    <comp ref="R1.1">
+      <value>100K</value>
+      <footprint>Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6229F3B6</tstamp>
+    </comp>
+    <comp ref="R1.2">
+      <value>100K</value>
+      <footprint>Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>622A056F</tstamp>
+    </comp>
+    <comp ref="Rb1">
+      <value>100</value>
+      <footprint>Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>622B95B5</tstamp>
+    </comp>
+    <comp ref="T_EX1">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-3_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>622F8C59</tstamp>
+    </comp>
+    <comp ref="P_IN1">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-3_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>623F6508</tstamp>
+    </comp>
+    <comp ref="P_EX1">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-3_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6245EFC2</tstamp>
+    </comp>
+    <comp ref="Gris1">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>624F8A42</tstamp>
+    </comp>
+    <comp ref="Blanca1">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>624FEE31</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>220</value>
+      <footprint>Resistor_THT:R_Box_L13.0mm_W4.0mm_P9.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6235E135</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <footprint>digikey-footprints:LED_3mm_Radial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6235E13C</tstamp>
+    </comp>
+    <comp ref="J13">
+      <value>USB_B</value>
+      <footprint>Connector_USB:USB_B_OST_USB-B1HSxx_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="USB_B" description="USB Type B connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>629A710C</tstamp>
+    </comp>
+    <comp ref="Nivel1">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-3_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>625CC2B5</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Instrumentation" part="AD620">
+      <aliases>
+        <alias>AD623</alias>
+      </aliases>
+      <description>Low Cost, Low Power, Instrumentation Amplifier, DIP-8/SOIC-8</description>
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf</docs>
+      <footprints>
+        <fp>SOIC*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AD620</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Rg" type="passive"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="Vs-" type="power_in"/>
+        <pin num="5" name="Ref" type="passive"/>
+        <pin num="6" name="~" type="output"/>
+        <pin num="7" name="Vs+" type="power_in"/>
+        <pin num="8" name="Rg" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Amplifier_Operational" part="LM741">
+      <aliases>
+        <alias>AD8610</alias>
+        <alias>LF155</alias>
+        <alias>LF156</alias>
+        <alias>LF256</alias>
+        <alias>LF257</alias>
+        <alias>LF355</alias>
+        <alias>LF356</alias>
+        <alias>LF357</alias>
+        <alias>TL081</alias>
+        <alias>TL061</alias>
+        <alias>TL071</alias>
+      </aliases>
+      <description>Operational Amplifier, DIP-8/TO-99-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm741.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*3x3mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM741</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NULL" type="input"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="NULL" type="input"/>
+        <pin num="6" name="~" type="output"/>
+        <pin num="7" name="V+" type="power_in"/>
+        <pin num="8" name="NC" type="NotConnected"/>
+      </pins>
+    </libpart>
+    <libpart lib="Autoclave_2.0-rescue" part="G5LE-14_DC12-dk_Power-Relays-Over-2-Amps">
+      <fields>
+        <field name="Reference">RLY</field>
+        <field name="Value">G5LE-14_DC12-dk_Power-Relays-Over-2-Amps</field>
+        <field name="Footprint">digikey-footprints:Relay_THT_G5LE-14</field>
+        <field name="Datasheet">https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</field>
+        <field name="Digi-Key_PN">Z1012-ND</field>
+        <field name="MPN">G5LE-14 DC12</field>
+        <field name="Category">Relays</field>
+        <field name="Family">Power Relays, Over 2 Amps</field>
+        <field name="DK_Datasheet_Link">https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/omron-electronics-inc-emc-div/G5LE-14-DC12/Z1012-ND/280369</field>
+        <field name="Description">RELAY GEN PURPOSE SPDT 10A 12V</field>
+        <field name="Manufacturer">Omron Electronics Inc-EMC Div</field>
+        <field name="Status">Active</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COM" type="passive"/>
+        <pin num="2" name="COIL" type="passive"/>
+        <pin num="3" name="NO" type="passive"/>
+        <pin num="4" name="NC" type="passive"/>
+        <pin num="5" name="COIL" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Autoclave_2.0-rescue" part="MAX232N-dk_Interface-Drivers-Receivers-Transceivers">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX232N-dk_Interface-Drivers-Receivers-Transceivers</field>
+        <field name="Footprint">digikey-footprints:DIP-16_W7.62mm</field>
+        <field name="Datasheet">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmax232</field>
+        <field name="Digi-Key_PN">296-1402-5-ND</field>
+        <field name="MPN">MAX232N</field>
+        <field name="Category">Integrated Circuits (ICs)</field>
+        <field name="Family">Interface - Drivers, Receivers, Transceivers</field>
+        <field name="DK_Datasheet_Link">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmax232</field>
+        <field name="DK_Detail_Page">/product-detail/en/texas-instruments/MAX232N/296-1402-5-ND/277048</field>
+        <field name="Description">IC DUAL EIA-232 DRVR/RCVR 16-DIP</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Status">Active</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C1+" type="passive"/>
+        <pin num="2" name="VS+" type="output"/>
+        <pin num="3" name="C1-" type="passive"/>
+        <pin num="4" name="C2+" type="passive"/>
+        <pin num="5" name="C2-" type="passive"/>
+        <pin num="6" name="VS-" type="output"/>
+        <pin num="7" name="T2OUT" type="output"/>
+        <pin num="8" name="R2IN" type="input"/>
+        <pin num="9" name="R2OUT" type="output"/>
+        <pin num="10" name="T2IN" type="input"/>
+        <pin num="11" name="T1IN" type="input"/>
+        <pin num="12" name="R1OUT" type="output"/>
+        <pin num="13" name="R1IN" type="input"/>
+        <pin num="14" name="T1OUT" type="output"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Autoclave_2.0-rescue" part="PKMCS0909E4000-R1-dk_Alarms-Buzzers-and-Sirens">
+      <fields>
+        <field name="Reference">BZ</field>
+        <field name="Value">PKMCS0909E4000-R1-dk_Alarms-Buzzers-and-Sirens</field>
+        <field name="Footprint">digikey-footprints:Piezo_9x9mm_PKMCS0909E4000-R1</field>
+        <field name="Datasheet">https://www.murata.com/~/media/webrenewal/products/sound/sounder/vppt-buzj083-d.ashx</field>
+        <field name="Digi-Key_PN">490-9647-1-ND</field>
+        <field name="MPN">PKMCS0909E4000-R1</field>
+        <field name="Category">Audio Products</field>
+        <field name="Family">Alarms, Buzzers, and Sirens</field>
+        <field name="DK_Datasheet_Link">https://www.murata.com/~/media/webrenewal/products/sound/sounder/vppt-buzj083-d.ashx</field>
+        <field name="DK_Detail_Page">/product-detail/en/murata-electronics-north-america/PKMCS0909E4000-R1/490-9647-1-ND/4878401</field>
+        <field name="Description">AUDIO PIEZO TRANSDUCER 12.5V SMD</field>
+        <field name="Manufacturer">Murata Electronics North America</field>
+        <field name="Status">Active</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Autoclave_2.0-rescue" part="ULN2803ADWR-dk_Transistors-Bipolar-BJT-Arrays">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">ULN2803ADWR-dk_Transistors-Bipolar-BJT-Arrays</field>
+        <field name="Footprint">digikey-footprints:SOIC-18_W7.5mm</field>
+        <field name="Datasheet">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fuln2803a</field>
+        <field name="Digi-Key_PN">296-15777-1-ND</field>
+        <field name="MPN">ULN2803ADWR</field>
+        <field name="Category">Discrete Semiconductor Products</field>
+        <field name="Family">Transistors - Bipolar (BJT) - Arrays</field>
+        <field name="DK_Datasheet_Link">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fuln2803a</field>
+        <field name="DK_Detail_Page">/product-detail/en/texas-instruments/ULN2803ADWR/296-15777-1-ND/598088</field>
+        <field name="Description">TRANS 8NPN DARL 50V 0.5A 18SO</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Status">Active</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN1" type="input"/>
+        <pin num="2" name="IN2" type="input"/>
+        <pin num="3" name="IN3" type="input"/>
+        <pin num="4" name="IN4" type="input"/>
+        <pin num="5" name="IN5" type="input"/>
+        <pin num="6" name="IN6" type="input"/>
+        <pin num="7" name="IN7" type="input"/>
+        <pin num="8" name="IN8" type="input"/>
+        <pin num="9" name="GND" type="power_in"/>
+        <pin num="10" name="COM" type="output"/>
+        <pin num="11" name="OUT8" type="output"/>
+        <pin num="12" name="OUT7" type="output"/>
+        <pin num="13" name="OUT6" type="output"/>
+        <pin num="14" name="OUT5" type="output"/>
+        <pin num="15" name="OUT4" type="output"/>
+        <pin num="16" name="OUT3" type="output"/>
+        <pin num="17" name="OUT2" type="output"/>
+        <pin num="18" name="OUT1" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Barrel_Jack_MountingPin">
+      <description>DC Barrel Jack with a mounting pin</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack_MountingPin</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="MP" name="MountPin" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x03">
+      <description>Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x04">
+      <description>Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_B">
+      <description>USB Type B connector</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_out"/>
+        <pin num="2" name="D-" type="BiDi"/>
+        <pin num="3" name="D+" type="BiDi"/>
+        <pin num="4" name="GND" type="power_out"/>
+        <pin num="5" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="CP1">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="arduino" part="Arduino_Mega2560_Shield">
+      <description>Shield for Arduino Mega 2560</description>
+      <docs>https://store.arduino.cc/arduino-mega-2560-rev3</docs>
+      <footprints>
+        <fp>Arduino_Mega2560_Shield</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">XA</field>
+        <field name="Value">Arduino_Mega2560_Shield</field>
+      </fields>
+      <pins>
+        <pin num="3V3" name="3.3V" type="power_in"/>
+        <pin num="5V1" name="5V" type="power_in"/>
+        <pin num="5V2" name="SPI_5V" type="power_in"/>
+        <pin num="5V3" name="5V" type="power_in"/>
+        <pin num="5V4" name="5V" type="power_in"/>
+        <pin num="A0" name="A0" type="BiDi"/>
+        <pin num="A1" name="A1" type="BiDi"/>
+        <pin num="A2" name="A2" type="BiDi"/>
+        <pin num="A3" name="A3" type="BiDi"/>
+        <pin num="A4" name="A4" type="BiDi"/>
+        <pin num="A5" name="A5" type="BiDi"/>
+        <pin num="A6" name="A6" type="BiDi"/>
+        <pin num="A7" name="A7" type="BiDi"/>
+        <pin num="A8" name="A8" type="BiDi"/>
+        <pin num="A9" name="A9" type="BiDi"/>
+        <pin num="A10" name="A10" type="BiDi"/>
+        <pin num="A11" name="A11" type="BiDi"/>
+        <pin num="A12" name="A12" type="BiDi"/>
+        <pin num="A13" name="A13" type="BiDi"/>
+        <pin num="A14" name="A14" type="BiDi"/>
+        <pin num="A15" name="A15" type="BiDi"/>
+        <pin num="AREF" name="AREF" type="input"/>
+        <pin num="D0" name="D0_RX0" type="BiDi"/>
+        <pin num="D1" name="D1_TX0" type="BiDi"/>
+        <pin num="D2" name="D2_INT0" type="BiDi"/>
+        <pin num="D3" name="D3_INT1" type="BiDi"/>
+        <pin num="D4" name="D4" type="BiDi"/>
+        <pin num="D5" name="D5" type="BiDi"/>
+        <pin num="D6" name="D6" type="BiDi"/>
+        <pin num="D7" name="D7" type="BiDi"/>
+        <pin num="D8" name="D8" type="BiDi"/>
+        <pin num="D9" name="D9" type="BiDi"/>
+        <pin num="D10" name="D10" type="BiDi"/>
+        <pin num="D11" name="D11" type="BiDi"/>
+        <pin num="D12" name="D12" type="BiDi"/>
+        <pin num="D13" name="D13" type="BiDi"/>
+        <pin num="D14" name="D14_TX3" type="BiDi"/>
+        <pin num="D15" name="D15_RX3" type="BiDi"/>
+        <pin num="D16" name="D16_TX2" type="BiDi"/>
+        <pin num="D17" name="D17_RX2" type="BiDi"/>
+        <pin num="D18" name="D18_TX1" type="BiDi"/>
+        <pin num="D19" name="D19_RX1" type="BiDi"/>
+        <pin num="D20" name="D20_SDA" type="BiDi"/>
+        <pin num="D21" name="D21_SCL" type="BiDi"/>
+        <pin num="D22" name="D22" type="BiDi"/>
+        <pin num="D23" name="D23" type="BiDi"/>
+        <pin num="D24" name="D24" type="BiDi"/>
+        <pin num="D25" name="D25" type="BiDi"/>
+        <pin num="D26" name="D26" type="BiDi"/>
+        <pin num="D27" name="D27" type="BiDi"/>
+        <pin num="D28" name="D28" type="BiDi"/>
+        <pin num="D29" name="D29" type="BiDi"/>
+        <pin num="D30" name="D30" type="BiDi"/>
+        <pin num="D31" name="D31" type="BiDi"/>
+        <pin num="D32" name="D32" type="BiDi"/>
+        <pin num="D33" name="D33" type="BiDi"/>
+        <pin num="D34" name="D34" type="BiDi"/>
+        <pin num="D35" name="D35" type="BiDi"/>
+        <pin num="D36" name="D36" type="BiDi"/>
+        <pin num="D37" name="D37" type="BiDi"/>
+        <pin num="D38" name="D38" type="BiDi"/>
+        <pin num="D39" name="D39" type="BiDi"/>
+        <pin num="D40" name="D40" type="BiDi"/>
+        <pin num="D41" name="D41" type="BiDi"/>
+        <pin num="D42" name="D42" type="BiDi"/>
+        <pin num="D43" name="D43" type="BiDi"/>
+        <pin num="D44" name="D44" type="BiDi"/>
+        <pin num="D45" name="D45" type="BiDi"/>
+        <pin num="D46" name="D46" type="BiDi"/>
+        <pin num="D47" name="D47" type="BiDi"/>
+        <pin num="D48" name="D48" type="BiDi"/>
+        <pin num="D49" name="D49" type="BiDi"/>
+        <pin num="D50" name="D50" type="BiDi"/>
+        <pin num="D51" name="D51" type="BiDi"/>
+        <pin num="D52" name="D52" type="BiDi"/>
+        <pin num="D53" name="D53_SS" type="BiDi"/>
+        <pin num="GND1" name="GND" type="power_in"/>
+        <pin num="GND2" name="GND" type="power_in"/>
+        <pin num="GND3" name="GND" type="power_in"/>
+        <pin num="GND4" name="SPI_GND" type="power_in"/>
+        <pin num="GND5" name="GND" type="power_in"/>
+        <pin num="GND6" name="GND" type="power_in"/>
+        <pin num="IORF" name="IOREF" type="output"/>
+        <pin num="MISO" name="SPI_MISO" type="input"/>
+        <pin num="MOSI" name="SPI_MOSI" type="output"/>
+        <pin num="RST1" name="RESET" type="openCol"/>
+        <pin num="RST2" name="SPI_RESET" type="openCol"/>
+        <pin num="SCK" name="SPI_SCK" type="output"/>
+        <pin num="SCL" name="SCL" type="BiDi"/>
+        <pin num="SDA" name="SDA" type="BiDi"/>
+        <pin num="VIN" name="VIN" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Instrumentation">
+      <uri>/usr/share/kicad/library/Amplifier_Instrumentation.lib</uri>
+    </library>
+    <library logical="Amplifier_Operational">
+      <uri>/usr/share/kicad/library/Amplifier_Operational.lib</uri>
+    </library>
+    <library logical="Autoclave_2.0-rescue">
+      <uri>/home/villabaal/Documentos/Electronica/Autoclave_2.0/Autoclave_2.0/Autoclave_2.0-rescue.lib</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="arduino">
+      <uri>/home/villabaal/Documentos/Electronica/Autoclave_2.0/Autoclave_2.0/KiCad-master/arduino.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1"/>
+      <node ref="U3" pin="4"/>
+    </net>
+    <net code="2" name="Net-(C1-Pad2)">
+      <node ref="U3" pin="5"/>
+      <node ref="C1" pin="2"/>
+    </net>
+    <net code="3" name="Net-(U3-Pad14)">
+      <node ref="U3" pin="14"/>
+    </net>
+    <net code="4" name="Net-(U3-Pad12)">
+      <node ref="U3" pin="12"/>
+    </net>
+    <net code="5" name="Net-(U3-Pad11)">
+      <node ref="U3" pin="11"/>
+    </net>
+    <net code="6" name="Net-(U3-Pad13)">
+      <node ref="U3" pin="13"/>
+    </net>
+    <net code="7" name="Net-(J13-Pad2)">
+      <node ref="J13" pin="2"/>
+      <node ref="U3" pin="7"/>
+    </net>
+    <net code="8" name="+12V">
+      <node ref="Q1" pin="10"/>
+      <node ref="XA1" pin="VIN"/>
+      <node ref="R9" pin="2"/>
+      <node ref="R8" pin="2"/>
+      <node ref="R7" pin="2"/>
+      <node ref="ESR1" pin="2"/>
+      <node ref="EM1" pin="2"/>
+      <node ref="EST1" pin="2"/>
+      <node ref="CNT1" pin="2"/>
+      <node ref="BMB1" pin="2"/>
+      <node ref="MP1" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="R1" pin="2"/>
+      <node ref="ENA1" pin="2"/>
+      <node ref="SEC1" pin="2"/>
+      <node ref="ESL1" pin="2"/>
+      <node ref="Q2" pin="10"/>
+      <node ref="J13" pin="1"/>
+      <node ref="R1.2" pin="1"/>
+      <node ref="R1.1" pin="1"/>
+      <node ref="P_EX1" pin="3"/>
+      <node ref="P_IN1" pin="3"/>
+      <node ref="R11" pin="2"/>
+      <node ref="SP1" pin="2"/>
+      <node ref="U2" pin="7"/>
+      <node ref="R10" pin="2"/>
+      <node ref="Buzzer1" pin="2"/>
+      <node ref="U1" pin="7"/>
+      <node ref="R4" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="9" name="Net-(J13-Pad3)">
+      <node ref="J13" pin="3"/>
+      <node ref="U3" pin="8"/>
+    </net>
+    <net code="10" name="Net-(C3-Pad1)">
+      <node ref="U3" pin="2"/>
+      <node ref="C3" pin="1"/>
+    </net>
+    <net code="11" name="+5V">
+      <node ref="XA1" pin="5V3"/>
+      <node ref="XA1" pin="5V4"/>
+      <node ref="U3" pin="16"/>
+      <node ref="XA1" pin="5V1"/>
+    </net>
+    <net code="12" name="Net-(C2-Pad2)">
+      <node ref="U3" pin="6"/>
+      <node ref="C2" pin="2"/>
+    </net>
+    <net code="13" name="Net-(C4-Pad2)">
+      <node ref="U3" pin="3"/>
+      <node ref="C4" pin="2"/>
+    </net>
+    <net code="14" name="Net-(C4-Pad1)">
+      <node ref="U3" pin="1"/>
+      <node ref="C4" pin="1"/>
+    </net>
+    <net code="15" name="Net-(Rg1-Pad1)">
+      <node ref="Rg1" pin="1"/>
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="16" name="Net-(Rg1-Pad2)">
+      <node ref="U1" pin="8"/>
+      <node ref="Rg1" pin="2"/>
+    </net>
+    <net code="17" name="Net-(Rf1-Pad2)">
+      <node ref="Rf1" pin="2"/>
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="18" name="Net-(Cf1-Pad1)">
+      <node ref="U2" pin="3"/>
+      <node ref="Rf1" pin="1"/>
+      <node ref="Cf1" pin="1"/>
+    </net>
+    <net code="19" name="Net-(U2-Pad1)">
+      <node ref="U2" pin="1"/>
+    </net>
+    <net code="20" name="Net-(U2-Pad5)">
+      <node ref="U2" pin="5"/>
+    </net>
+    <net code="21" name="Net-(U2-Pad8)">
+      <node ref="U2" pin="8"/>
+    </net>
+    <net code="22" name="-12V">
+      <node ref="J4" pin="2"/>
+      <node ref="U2" pin="4"/>
+      <node ref="U1" pin="4"/>
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="23" name="Net-(XA1-PadD8)">
+      <node ref="XA1" pin="D8"/>
+    </net>
+    <net code="24" name="Net-(XA1-PadA9)">
+      <node ref="XA1" pin="A9"/>
+    </net>
+    <net code="25" name="Net-(XA1-PadD9)">
+      <node ref="XA1" pin="D9"/>
+    </net>
+    <net code="26" name="Net-(XA1-PadA10)">
+      <node ref="XA1" pin="A10"/>
+    </net>
+    <net code="27" name="Net-(XA1-PadD10)">
+      <node ref="XA1" pin="D10"/>
+    </net>
+    <net code="28" name="Net-(XA1-PadD20)">
+      <node ref="XA1" pin="D20"/>
+    </net>
+    <net code="29" name="Net-(XA1-PadD30)">
+      <node ref="XA1" pin="D30"/>
+    </net>
+    <net code="30" name="Net-(XA1-PadD40)">
+      <node ref="XA1" pin="D40"/>
+    </net>
+    <net code="31" name="Net-(Q1-Pad3)">
+      <node ref="XA1" pin="D50"/>
+      <node ref="Q1" pin="3"/>
+    </net>
+    <net code="32" name="Net-(XA1-PadA11)">
+      <node ref="XA1" pin="A11"/>
+    </net>
+    <net code="33" name="Net-(XA1-PadD11)">
+      <node ref="XA1" pin="D11"/>
+    </net>
+    <net code="34" name="Net-(XA1-PadD21)">
+      <node ref="XA1" pin="D21"/>
+    </net>
+    <net code="35" name="Net-(XA1-PadD31)">
+      <node ref="XA1" pin="D31"/>
+    </net>
+    <net code="36" name="Net-(XA1-PadD41)">
+      <node ref="XA1" pin="D41"/>
+    </net>
+    <net code="37" name="Net-(XA1-PadA8)">
+      <node ref="XA1" pin="A8"/>
+    </net>
+    <net code="38" name="Net-(XA1-PadA12)">
+      <node ref="XA1" pin="A12"/>
+    </net>
+    <net code="39" name="Net-(XA1-PadD12)">
+      <node ref="XA1" pin="D12"/>
+    </net>
+    <net code="40" name="Net-(XA1-PadD22)">
+      <node ref="XA1" pin="D22"/>
+    </net>
+    <net code="41" name="Net-(XA1-PadD32)">
+      <node ref="XA1" pin="D32"/>
+    </net>
+    <net code="42" name="Net-(XA1-PadD42)">
+      <node ref="XA1" pin="D42"/>
+    </net>
+    <net code="43" name="Net-(Q1-Pad4)">
+      <node ref="Q1" pin="4"/>
+      <node ref="XA1" pin="D52"/>
+    </net>
+    <net code="44" name="Net-(XA1-Pad5V2)">
+      <node ref="XA1" pin="5V2"/>
+    </net>
+    <net code="45" name="Net-(XA1-PadA13)">
+      <node ref="XA1" pin="A13"/>
+    </net>
+    <net code="46" name="Net-(XA1-PadD13)">
+      <node ref="XA1" pin="D13"/>
+    </net>
+    <net code="47" name="Net-(XA1-PadD23)">
+      <node ref="XA1" pin="D23"/>
+    </net>
+    <net code="48" name="Net-(XA1-PadD33)">
+      <node ref="XA1" pin="D33"/>
+    </net>
+    <net code="49" name="Net-(Q2-Pad3)">
+      <node ref="Q2" pin="3"/>
+      <node ref="XA1" pin="D43"/>
+    </net>
+    <net code="50" name="Net-(Q1-Pad5)">
+      <node ref="XA1" pin="D53"/>
+      <node ref="Q1" pin="5"/>
+    </net>
+    <net code="51" name="Net-(D3-Pad1)">
+      <node ref="R3" pin="1"/>
+      <node ref="D3" pin="1"/>
+    </net>
+    <net code="52" name="Net-(XA1-PadD1)">
+      <node ref="XA1" pin="D1"/>
+    </net>
+    <net code="53" name="Net-(XA1-PadD0)">
+      <node ref="XA1" pin="D0"/>
+    </net>
+    <net code="54" name="Net-(U2-Pad2)">
+      <node ref="U2" pin="6"/>
+      <node ref="XA1" pin="A0"/>
+      <node ref="U2" pin="2"/>
+    </net>
+    <net code="55" name="Net-(XA1-Pad3V3)">
+      <node ref="XA1" pin="3V3"/>
+    </net>
+    <net code="56" name="Net-(XA1-PadD2)">
+      <node ref="XA1" pin="D2"/>
+    </net>
+    <net code="57" name="Net-(XA1-PadA3)">
+      <node ref="XA1" pin="A3"/>
+    </net>
+    <net code="58" name="Net-(XA1-PadD3)">
+      <node ref="XA1" pin="D3"/>
+    </net>
+    <net code="59" name="Net-(XA1-PadD4)">
+      <node ref="XA1" pin="D4"/>
+    </net>
+    <net code="60" name="Net-(XA1-PadD5)">
+      <node ref="XA1" pin="D5"/>
+    </net>
+    <net code="61" name="Net-(Nivel1-Pad3)">
+      <node ref="XA1" pin="A6"/>
+      <node ref="Nivel1" pin="3"/>
+    </net>
+    <net code="62" name="Net-(XA1-PadD6)">
+      <node ref="XA1" pin="D6"/>
+    </net>
+    <net code="63" name="Net-(Nivel1-Pad1)">
+      <node ref="XA1" pin="A7"/>
+      <node ref="Nivel1" pin="1"/>
+    </net>
+    <net code="64" name="Net-(XA1-PadD7)">
+      <node ref="XA1" pin="D7"/>
+    </net>
+    <net code="65" name="Net-(XA1-PadMISO)">
+      <node ref="XA1" pin="MISO"/>
+    </net>
+    <net code="66" name="Net-(XA1-PadSCK)">
+      <node ref="XA1" pin="SCK"/>
+    </net>
+    <net code="67" name="Net-(XA1-PadSCL)">
+      <node ref="XA1" pin="SCL"/>
+    </net>
+    <net code="68" name="Net-(XA1-PadRST1)">
+      <node ref="XA1" pin="RST1"/>
+    </net>
+    <net code="69" name="Net-(XA1-PadRST2)">
+      <node ref="XA1" pin="RST2"/>
+    </net>
+    <net code="70" name="Net-(XA1-PadGND4)">
+      <node ref="XA1" pin="GND4"/>
+    </net>
+    <net code="71" name="Net-(XA1-PadAREF)">
+      <node ref="XA1" pin="AREF"/>
+    </net>
+    <net code="72" name="Net-(XA1-PadIORF)">
+      <node ref="XA1" pin="IORF"/>
+    </net>
+    <net code="73" name="Net-(XA1-PadMOSI)">
+      <node ref="XA1" pin="MOSI"/>
+    </net>
+    <net code="74" name="Net-(XA1-PadSDA)">
+      <node ref="XA1" pin="SDA"/>
+    </net>
+    <net code="75" name="Net-(U3-Pad10)">
+      <node ref="XA1" pin="D18"/>
+      <node ref="U3" pin="10"/>
+    </net>
+    <net code="76" name="Net-(XA1-PadD36)">
+      <node ref="XA1" pin="D36"/>
+    </net>
+    <net code="77" name="Net-(XA1-PadA14)">
+      <node ref="XA1" pin="A14"/>
+    </net>
+    <net code="78" name="Net-(R12-Pad2)">
+      <node ref="XA1" pin="D14"/>
+      <node ref="R12" pin="2"/>
+    </net>
+    <net code="79" name="Net-(XA1-PadD24)">
+      <node ref="XA1" pin="D24"/>
+    </net>
+    <net code="80" name="Net-(XA1-PadD34)">
+      <node ref="XA1" pin="D34"/>
+    </net>
+    <net code="81" name="Net-(Q2-Pad2)">
+      <node ref="Q2" pin="2"/>
+      <node ref="XA1" pin="D44"/>
+    </net>
+    <net code="82" name="Net-(XA1-PadA15)">
+      <node ref="XA1" pin="A15"/>
+    </net>
+    <net code="83" name="Net-(XA1-PadD15)">
+      <node ref="XA1" pin="D15"/>
+    </net>
+    <net code="84" name="Net-(XA1-PadD25)">
+      <node ref="XA1" pin="D25"/>
+    </net>
+    <net code="85" name="Net-(XA1-PadD35)">
+      <node ref="XA1" pin="D35"/>
+    </net>
+    <net code="86" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1"/>
+      <node ref="XA1" pin="D45"/>
+    </net>
+    <net code="87" name="Net-(XA1-PadD16)">
+      <node ref="XA1" pin="D16"/>
+    </net>
+    <net code="88" name="Net-(XA1-PadD26)">
+      <node ref="XA1" pin="D26"/>
+    </net>
+    <net code="89" name="Net-(XA1-PadD17)">
+      <node ref="XA1" pin="D17"/>
+    </net>
+    <net code="90" name="Net-(XA1-PadD27)">
+      <node ref="XA1" pin="D27"/>
+    </net>
+    <net code="91" name="Net-(XA1-PadD37)">
+      <node ref="XA1" pin="D37"/>
+    </net>
+    <net code="92" name="Net-(Q1-Pad8)">
+      <node ref="XA1" pin="D47"/>
+      <node ref="Q1" pin="8"/>
+    </net>
+    <net code="93" name="Net-(XA1-PadD28)">
+      <node ref="XA1" pin="D28"/>
+    </net>
+    <net code="94" name="Net-(XA1-PadD38)">
+      <node ref="XA1" pin="D38"/>
+    </net>
+    <net code="95" name="Net-(U3-Pad9)">
+      <node ref="U3" pin="9"/>
+      <node ref="XA1" pin="D19"/>
+    </net>
+    <net code="96" name="Net-(XA1-PadD29)">
+      <node ref="XA1" pin="D29"/>
+    </net>
+    <net code="97" name="Net-(XA1-PadD39)">
+      <node ref="XA1" pin="D39"/>
+    </net>
+    <net code="98" name="Net-(Q1-Pad7)">
+      <node ref="Q1" pin="7"/>
+      <node ref="XA1" pin="D49"/>
+    </net>
+    <net code="99" name="Net-(CNT1-Pad5)">
+      <node ref="D5" pin="1"/>
+      <node ref="Q1" pin="16"/>
+      <node ref="CNT1" pin="5"/>
+    </net>
+    <net code="100" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1"/>
+      <node ref="Q1" pin="15"/>
+      <node ref="MP1" pin="5"/>
+    </net>
+    <net code="101" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1"/>
+      <node ref="Q1" pin="14"/>
+      <node ref="SP1" pin="5"/>
+    </net>
+    <net code="102" name="Net-(Q1-Pad6)">
+      <node ref="Q1" pin="6"/>
+      <node ref="XA1" pin="D51"/>
+    </net>
+    <net code="103" name="Net-(Q1-Pad2)">
+      <node ref="XA1" pin="D48"/>
+      <node ref="Q1" pin="2"/>
+    </net>
+    <net code="104" name="Net-(D9-Pad1)">
+      <node ref="ESL1" pin="5"/>
+      <node ref="D9" pin="1"/>
+      <node ref="Q1" pin="18"/>
+    </net>
+    <net code="105" name="Net-(D7-Pad1)">
+      <node ref="EM1" pin="5"/>
+      <node ref="Q1" pin="17"/>
+      <node ref="D7" pin="1"/>
+    </net>
+    <net code="106" name="Net-(D11-Pad1)">
+      <node ref="D11" pin="1"/>
+      <node ref="ENA1" pin="5"/>
+      <node ref="Q2" pin="17"/>
+    </net>
+    <net code="107" name="Net-(D10-Pad1)">
+      <node ref="Q2" pin="18"/>
+      <node ref="SEC1" pin="5"/>
+      <node ref="D10" pin="1"/>
+    </net>
+    <net code="108" name="Net-(D6-Pad1)">
+      <node ref="EST1" pin="5"/>
+      <node ref="Q1" pin="12"/>
+      <node ref="D6" pin="1"/>
+    </net>
+    <net code="109" name="Net-(D8-Pad1)">
+      <node ref="Q1" pin="11"/>
+      <node ref="ESR1" pin="5"/>
+      <node ref="D8" pin="1"/>
+    </net>
+    <net code="110" name="Net-(Buzzer1-Pad1)">
+      <node ref="Q2" pin="16"/>
+      <node ref="Buzzer1" pin="1"/>
+    </net>
+    <net code="111" name="Net-(P_IN1-Pad2)">
+      <node ref="XA1" pin="A1"/>
+      <node ref="P_IN1" pin="2"/>
+    </net>
+    <net code="112" name="Net-(P_EX1-Pad2)">
+      <node ref="P_EX1" pin="2"/>
+      <node ref="XA1" pin="A2"/>
+    </net>
+    <net code="113" name="Net-(R1.1-Pad2)">
+      <node ref="R1.1" pin="2"/>
+      <node ref="Rb1" pin="1"/>
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="114" name="Net-(R1.2-Pad2)">
+      <node ref="U1" pin="3"/>
+      <node ref="T_EX1" pin="2"/>
+      <node ref="R1.2" pin="2"/>
+      <node ref="T_EX1" pin="3"/>
+    </net>
+    <net code="115" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2"/>
+      <node ref="R12" pin="1"/>
+    </net>
+    <net code="116" name="GND">
+      <node ref="C2" pin="1"/>
+      <node ref="C3" pin="2"/>
+      <node ref="J4" pin="MP"/>
+      <node ref="J4" pin="1"/>
+      <node ref="U1" pin="5"/>
+      <node ref="D3" pin="2"/>
+      <node ref="T_EX1" pin="1"/>
+      <node ref="Rb1" pin="2"/>
+      <node ref="Cf1" pin="2"/>
+      <node ref="P_EX1" pin="1"/>
+      <node ref="Gris1" pin="1"/>
+      <node ref="D12" pin="1"/>
+      <node ref="Blanca1" pin="1"/>
+      <node ref="Q1" pin="9"/>
+      <node ref="Q2" pin="9"/>
+      <node ref="XA1" pin="GND3"/>
+      <node ref="U3" pin="15"/>
+      <node ref="P_IN1" pin="1"/>
+      <node ref="XA1" pin="GND6"/>
+      <node ref="XA1" pin="GND5"/>
+      <node ref="XA1" pin="GND2"/>
+      <node ref="Nivel1" pin="2"/>
+      <node ref="XA1" pin="GND1"/>
+      <node ref="J13" pin="5"/>
+      <node ref="J13" pin="4"/>
+    </net>
+    <net code="117" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1"/>
+      <node ref="XA1" pin="D46"/>
+    </net>
+    <net code="118" name="Net-(Gris1-Pad2)">
+      <node ref="Gris1" pin="2"/>
+      <node ref="XA1" pin="A4"/>
+    </net>
+    <net code="119" name="Net-(Blanca1-Pad2)">
+      <node ref="Blanca1" pin="2"/>
+      <node ref="XA1" pin="A5"/>
+    </net>
+    <net code="120" name="Net-(BMB1-Pad5)">
+      <node ref="Q1" pin="13"/>
+      <node ref="D4" pin="1"/>
+      <node ref="BMB1" pin="5"/>
+    </net>
+    <net code="121" name="Net-(SP1-Pad4)">
+      <node ref="SP1" pin="4"/>
+    </net>
+    <net code="122" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2"/>
+      <node ref="R11" pin="1"/>
+    </net>
+    <net code="123" name="Net-(Q2-Pad14)">
+      <node ref="Q2" pin="14"/>
+    </net>
+    <net code="124" name="Net-(Q2-Pad15)">
+      <node ref="Q2" pin="15"/>
+    </net>
+    <net code="125" name="Net-(Q2-Pad4)">
+      <node ref="Q2" pin="4"/>
+    </net>
+    <net code="126" name="Net-(Q2-Pad5)">
+      <node ref="Q2" pin="5"/>
+    </net>
+    <net code="127" name="Net-(Q2-Pad6)">
+      <node ref="Q2" pin="6"/>
+    </net>
+    <net code="128" name="Net-(Q2-Pad7)">
+      <node ref="Q2" pin="7"/>
+    </net>
+    <net code="129" name="Net-(Q2-Pad8)">
+      <node ref="Q2" pin="8"/>
+    </net>
+    <net code="130" name="Net-(Q2-Pad13)">
+      <node ref="Q2" pin="13"/>
+    </net>
+    <net code="131" name="Net-(D10-Pad2)">
+      <node ref="R10" pin="1"/>
+      <node ref="D10" pin="2"/>
+    </net>
+    <net code="132" name="Net-(Q2-Pad11)">
+      <node ref="Q2" pin="11"/>
+    </net>
+    <net code="133" name="Net-(Q2-Pad12)">
+      <node ref="Q2" pin="12"/>
+    </net>
+    <net code="134" name="Net-(ESL1-Pad4)">
+      <node ref="ESL1" pin="4"/>
+    </net>
+    <net code="135" name="Net-(SEC1-Pad4)">
+      <node ref="SEC1" pin="4"/>
+    </net>
+    <net code="136" name="LINE">
+      <node ref="ESR1" pin="1"/>
+      <node ref="EM1" pin="1"/>
+      <node ref="CNT1" pin="1"/>
+      <node ref="SEC1" pin="1"/>
+      <node ref="SP1" pin="1"/>
+      <node ref="ENA1" pin="1"/>
+      <node ref="EST1" pin="1"/>
+      <node ref="BMB1" pin="1"/>
+      <node ref="MP1" pin="1"/>
+      <node ref="F1" pin="2"/>
+      <node ref="ESL1" pin="1"/>
+    </net>
+    <net code="137" name="Net-(ENA1-Pad4)">
+      <node ref="ENA1" pin="4"/>
+    </net>
+    <net code="138" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="139" name="Net-(D2-Pad2)">
+      <node ref="R2" pin="1"/>
+      <node ref="D2" pin="2"/>
+    </net>
+    <net code="140" name="Net-(MP1-Pad4)">
+      <node ref="MP1" pin="4"/>
+    </net>
+    <net code="141" name="Net-(BMB1-Pad4)">
+      <node ref="BMB1" pin="4"/>
+    </net>
+    <net code="142" name="Net-(CNT1-Pad4)">
+      <node ref="CNT1" pin="4"/>
+    </net>
+    <net code="143" name="Net-(EST1-Pad4)">
+      <node ref="EST1" pin="4"/>
+    </net>
+    <net code="144" name="Net-(ESR1-Pad4)">
+      <node ref="ESR1" pin="4"/>
+    </net>
+    <net code="145" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="146" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="147" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="148" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="149" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="150" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2"/>
+      <node ref="R6" pin="1"/>
+    </net>
+    <net code="151" name="Net-(ESR1-Pad3)">
+      <node ref="ESR1" pin="3"/>
+      <node ref="J9" pin="1"/>
+    </net>
+    <net code="152" name="Net-(ESL1-Pad3)">
+      <node ref="ESL1" pin="3"/>
+      <node ref="J10" pin="1"/>
+    </net>
+    <net code="153" name="Net-(J11-Pad1)">
+      <node ref="J11" pin="1"/>
+      <node ref="SEC1" pin="3"/>
+    </net>
+    <net code="154" name="Net-(ENA1-Pad3)">
+      <node ref="J12" pin="1"/>
+      <node ref="ENA1" pin="3"/>
+    </net>
+    <net code="155" name="Net-(EST1-Pad3)">
+      <node ref="J7" pin="1"/>
+      <node ref="EST1" pin="3"/>
+    </net>
+    <net code="156" name="NEUT">
+      <node ref="J12" pin="2"/>
+      <node ref="J11" pin="2"/>
+      <node ref="J10" pin="2"/>
+      <node ref="J9" pin="2"/>
+      <node ref="J7" pin="2"/>
+      <node ref="J8" pin="3"/>
+      <node ref="J8" pin="2"/>
+      <node ref="J1" pin="2"/>
+      <node ref="J2" pin="2"/>
+      <node ref="J3" pin="2"/>
+      <node ref="J5" pin="2"/>
+      <node ref="J6" pin="2"/>
+    </net>
+    <net code="157" name="Net-(J2-Pad1)">
+      <node ref="SP1" pin="3"/>
+      <node ref="J2" pin="1"/>
+    </net>
+    <net code="158" name="Net-(J3-Pad1)">
+      <node ref="J3" pin="1"/>
+      <node ref="MP1" pin="3"/>
+    </net>
+    <net code="159" name="Net-(BMB1-Pad3)">
+      <node ref="J5" pin="1"/>
+      <node ref="BMB1" pin="3"/>
+    </net>
+    <net code="160" name="Net-(CNT1-Pad3)">
+      <node ref="CNT1" pin="3"/>
+      <node ref="J6" pin="1"/>
+    </net>
+    <net code="161" name="Net-(F1-Pad1)">
+      <node ref="J1" pin="1"/>
+      <node ref="F1" pin="1"/>
+    </net>
+    <net code="162" name="Net-(EM1-Pad3)">
+      <node ref="EM1" pin="3"/>
+      <node ref="J8" pin="1"/>
+    </net>
+    <net code="163" name="Net-(EM1-Pad4)">
+      <node ref="EM1" pin="4"/>
+      <node ref="J8" pin="4"/>
+    </net>
+  </nets>
+</export>

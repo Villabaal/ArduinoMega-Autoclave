@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Autoclave_2.0-rescue")(type "KiCad")(uri "${KIPRJMOD}/Autoclave_2.0-rescue.kicad_sym")(options "")(descr ""))
+)
