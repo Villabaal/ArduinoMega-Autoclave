@@ -10,7 +10,7 @@ private:
   T (&storage)[N]; //Referencia a la memoria del array
 public:
     constexpr vector(  T(&v)[N]) : storage( v ) { }
-     T& operator[](uint8_t const &location){  return storage[ location ]; };
+     T& operator[](uint8_t const &location) noexcept{  return storage[ location ]; };
     // //producto punto
     template<uint8_t I = N-1> float operator*( arithmetic auto const (&u)[N] ){
       if constexpr (I == 0) return storage[I]*u[I]; else return storage[I]*u[I] + this->operator*<I-1>(u) ;
